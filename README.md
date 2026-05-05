@@ -1,2 +1,2 @@
-# Chepter 1
-# Chepter 2 running
+# Chepter 1 (25 complete)
+# Chepter 2 (49 running)
